@@ -1,6 +1,6 @@
 ## Acerca de mí
 
-¡Hola! Soy una joven estudiante apasionada por la informática. Actualmente, estoy ampliando mis conocimientos a través de cursos y adquiriendo experiencia como desarrolladora full stack.
+¡Hola! Soy una joven estudiante apasionada por la informática. Actualmente, estoy ampliando mis conocimientos a través de cursos y adquiriendo experiencia como desarrolladora web full stack.
 
 Me desenvuelvo tanto en el desarrollo backend como en el frontend, y en mis repositorios encontrarás todos mis proyectos.
 
