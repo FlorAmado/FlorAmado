@@ -26,7 +26,8 @@ Me desenvuelvo tanto en el desarrollo backend como en el frontend, y en mis repo
 
 ## Educación
 
-- Técnico Personal y Profesional en Informática
+- Analista de Sistemas en ORT Argentina 2024
 - Full Stack Developer - Digital House 2023
+- Técnico Personal y Profesional en Informática 2023
 
 
